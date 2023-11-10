@@ -22,7 +22,7 @@ body::-webkit-scrollbar {
 .mainContainer {
   max-width: 1536px;
   margin: 0 auto;
-  padding: 4rem 5px;
+  padding: 4rem 10px;
 }
 
 h1 {
@@ -36,12 +36,12 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 400;
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 400;
 }
 
@@ -49,6 +49,10 @@ p {
   h1 {
     font-size: 48px;
   }
+
+  h2 {
+  font-size: 32px;
+}
 }
 
 @media (max-width: 786px) {

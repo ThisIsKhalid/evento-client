@@ -5,7 +5,7 @@ const { Title, Paragraph } = Typography;
 
 const Banner = () => {
   return (
-    <div className="mainContainer flex items-center justify-center py-0 md:min-h-[80vh] min-h-[50vh]">
+    <div className="mainContainer flex items-center justify-center lg:py-0 lg:min-h-[80vh] h-full">
       <div className="text-center text-cBlack">
         <h1 className="font-bold">Spotlight Your Creativity </h1>
         <h1 className="font-bold">
